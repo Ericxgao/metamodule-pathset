@@ -1,0 +1,32 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-pathset",
+    "MetaModuleDescription": "PathSet for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "ShiftyMod",
+            "name": "Shifty"
+        },
+        {
+            "slug": "IceTray",
+            "name": "IceTray"
+        },
+        {
+            "slug": "AstroVibe",
+            "name": "AstroVibe"
+        },
+        {
+            "slug": "GlassPane",
+            "name": "GlassPane"
+        },
+        {
+            "slug": "Nudge",
+            "name": "Nudge"
+        },
+        {
+            "slug": "OneShot",
+            "name": "OneShot"
+        }
+    ]
+}
